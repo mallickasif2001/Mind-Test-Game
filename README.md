@@ -15,7 +15,7 @@ A fun and interactive memory game built using HTML, CSS, and JavaScript. The use
 - CSS  
 - JavaScript (DOM Manipulation, Event Handling)
 
-## 🚀 How to Play
+##  How to Play
 
 1. Press any key to start the game.  
 2. Watch the color pattern that blinks on the screen.  
