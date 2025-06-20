@@ -22,3 +22,5 @@ A fun and interactive memory game built using HTML, CSS, and JavaScript. The use
 3. Repeat the pattern by clicking the buttons in the same order.  
 4. With each correct level, the pattern gets longer.  
 5. If you press the wrong button, the game ends and resets.
+
+# Thanks
